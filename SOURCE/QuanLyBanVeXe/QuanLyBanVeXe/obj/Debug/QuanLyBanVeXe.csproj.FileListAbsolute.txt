@@ -1,0 +1,89 @@
+D:\Documents\Visual 2012\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\QuanLyBanVeXe.exe.config
+D:\Documents\Visual 2012\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\QuanLyBanVeXe.exe
+D:\Documents\Visual 2012\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\QuanLyBanVeXe.pdb
+D:\Documents\Visual 2012\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.csprojResolveAssemblyReference.cache
+D:\Documents\Visual 2012\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmMain.resources
+D:\Documents\Visual 2012\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmQuanLyNguoiDung.resources
+D:\Documents\Visual 2012\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.Properties.Resources.resources
+D:\Documents\Visual 2012\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.csproj.GenerateResource.Cache
+D:\Documents\Visual 2012\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.exe
+D:\Documents\Visual 2012\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.pdb
+D:\Documents\Visual 2012\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmBanVe.resources
+D:\Documents\Visual 2012\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmTaoID.resources
+D:\Documents\Visual 2012\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmTimKiem.resources
+D:\Documents\Visual 2012\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmChiTietTuyenXe.resources
+D:\Documents\Visual 2012\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmDangNhap.resources
+D:\Documents\Visual 2012\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmQuanLyVeXe.resources
+D:\Documents\Visual 2012\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmQuanLyKhachHang.resources
+D:\Documents\Visual 2012\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmQuanLyXe.resources
+D:\Documents\Visual 2012\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmChiTietHoaDon.resources
+D:\Documents\Visual 2012\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmGheXe.resources
+D:\Documents\Visual 2012\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmHoaDon.resources
+D:\Documents\Visual 2012\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmPhongBan.resources
+C:\Users\Ma\Desktop\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\QuanLyBanVeXe.exe.config
+C:\Users\Ma\Desktop\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.exe
+C:\Users\Ma\Desktop\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.pdb
+C:\Users\Ma\Desktop\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\QuanLyBanVeXe.exe
+C:\Users\Ma\Desktop\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\QuanLyBanVeXe.pdb
+C:\Users\Ma\Desktop\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmChiTietHoaDon.resources
+C:\Users\Ma\Desktop\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmChiTietTuyenXe.resources
+C:\Users\Ma\Desktop\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmDangNhap.resources
+C:\Users\Ma\Desktop\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmHoaDon.resources
+C:\Users\Ma\Desktop\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmMainAdmin.resources
+C:\Users\Ma\Desktop\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmMainNguoiDung.resources
+C:\Users\Ma\Desktop\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmPhongBan.resources
+C:\Users\Ma\Desktop\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmQuanLyKhachHang.resources
+C:\Users\Ma\Desktop\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmQuanLyNguoiDung.resources
+C:\Users\Ma\Desktop\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmQuanLyXe.resources
+C:\Users\Ma\Desktop\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmTaoID.resources
+C:\Users\Ma\Desktop\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.Properties.Resources.resources
+C:\Users\Ma\Desktop\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.csproj.GenerateResource.Cache
+C:\Users\Ma\Desktop\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmBanVe.resources
+C:\Users\Ma\Desktop\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.csprojResolveAssemblyReference.cache
+C:\Users\Ma\Desktop\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FrmTimTuyenXe.resources
+C:\Users\Ma\Desktop\FULLPROJECT\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\QuanLyBanVeXe.exe.config
+C:\Users\Ma\Desktop\FULLPROJECT\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.exe
+C:\Users\Ma\Desktop\FULLPROJECT\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.pdb
+C:\Users\Ma\Desktop\FULLPROJECT\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\QuanLyBanVeXe.exe
+C:\Users\Ma\Desktop\FULLPROJECT\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\QuanLyBanVeXe.pdb
+C:\Users\Ma\Desktop\FULLPROJECT\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.csprojResolveAssemblyReference.cache
+C:\Users\Ma\Desktop\FULLPROJECT\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmBanVe.resources
+C:\Users\Ma\Desktop\FULLPROJECT\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmChiTietHoaDon.resources
+C:\Users\Ma\Desktop\FULLPROJECT\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmChiTietTuyenXe.resources
+C:\Users\Ma\Desktop\FULLPROJECT\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmDangNhap.resources
+C:\Users\Ma\Desktop\FULLPROJECT\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmMainAdmin.resources
+C:\Users\Ma\Desktop\FULLPROJECT\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmMainNguoiDung.resources
+C:\Users\Ma\Desktop\FULLPROJECT\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmPhongBan.resources
+C:\Users\Ma\Desktop\FULLPROJECT\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmQuanLyKhachHang.resources
+C:\Users\Ma\Desktop\FULLPROJECT\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmQuanLyNguoiDung.resources
+C:\Users\Ma\Desktop\FULLPROJECT\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmQuanLyXe.resources
+C:\Users\Ma\Desktop\FULLPROJECT\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmTaoID.resources
+C:\Users\Ma\Desktop\FULLPROJECT\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FrmTimTuyenXe.resources
+C:\Users\Ma\Desktop\FULLPROJECT\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.Properties.Resources.resources
+C:\Users\Ma\Desktop\FULLPROJECT\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.csproj.GenerateResource.Cache
+C:\Users\Ma\Desktop\FULLPROJECT\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.Print.BanVe.resources
+C:\Users\Ma\Desktop\FULLPROJECT\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\RdlCompile.cache
+C:\Users\Ma\Desktop\FULLPROJECT\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\RdlCompile.compiled
+C:\Users\Ma\Desktop\DA_LTCSHARP1_NHOM_12\SOURCE\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\QuanLyBanVeXe.exe.config
+C:\Users\Ma\Desktop\DA_LTCSHARP1_NHOM_12\SOURCE\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.exe
+C:\Users\Ma\Desktop\DA_LTCSHARP1_NHOM_12\SOURCE\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.pdb
+C:\Users\PC\Documents\Zalo Received Files\DA_LTCSHARP1_NHOM_12\DA_LTCSHARP1_NHOM_12\SOURCE\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Zalo Received Files\DA_LTCSHARP1_NHOM_12\DA_LTCSHARP1_NHOM_12\SOURCE\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\Zalo Received Files\DA_LTCSHARP1_NHOM_12\DA_LTCSHARP1_NHOM_12\SOURCE\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmBanVe.resources
+C:\Users\PC\Documents\Zalo Received Files\DA_LTCSHARP1_NHOM_12\DA_LTCSHARP1_NHOM_12\SOURCE\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmChiTietHoaDon.resources
+C:\Users\PC\Documents\Zalo Received Files\DA_LTCSHARP1_NHOM_12\DA_LTCSHARP1_NHOM_12\SOURCE\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmChiTietTuyenXe.resources
+C:\Users\PC\Documents\Zalo Received Files\DA_LTCSHARP1_NHOM_12\DA_LTCSHARP1_NHOM_12\SOURCE\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmDangNhap.resources
+C:\Users\PC\Documents\Zalo Received Files\DA_LTCSHARP1_NHOM_12\DA_LTCSHARP1_NHOM_12\SOURCE\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmMainAdmin.resources
+C:\Users\PC\Documents\Zalo Received Files\DA_LTCSHARP1_NHOM_12\DA_LTCSHARP1_NHOM_12\SOURCE\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmMainNguoiDung.resources
+C:\Users\PC\Documents\Zalo Received Files\DA_LTCSHARP1_NHOM_12\DA_LTCSHARP1_NHOM_12\SOURCE\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmPhongBan.resources
+C:\Users\PC\Documents\Zalo Received Files\DA_LTCSHARP1_NHOM_12\DA_LTCSHARP1_NHOM_12\SOURCE\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmQuanLyKhachHang.resources
+C:\Users\PC\Documents\Zalo Received Files\DA_LTCSHARP1_NHOM_12\DA_LTCSHARP1_NHOM_12\SOURCE\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmQuanLyNguoiDung.resources
+C:\Users\PC\Documents\Zalo Received Files\DA_LTCSHARP1_NHOM_12\DA_LTCSHARP1_NHOM_12\SOURCE\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmQuanLyXe.resources
+C:\Users\PC\Documents\Zalo Received Files\DA_LTCSHARP1_NHOM_12\DA_LTCSHARP1_NHOM_12\SOURCE\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmTaoID.resources
+C:\Users\PC\Documents\Zalo Received Files\DA_LTCSHARP1_NHOM_12\DA_LTCSHARP1_NHOM_12\SOURCE\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FrmTimTuyenXe.resources
+C:\Users\PC\Documents\Zalo Received Files\DA_LTCSHARP1_NHOM_12\DA_LTCSHARP1_NHOM_12\SOURCE\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.Print.BanVe.resources
+C:\Users\PC\Documents\Zalo Received Files\DA_LTCSHARP1_NHOM_12\DA_LTCSHARP1_NHOM_12\SOURCE\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.Properties.Resources.resources
+C:\Users\PC\Documents\Zalo Received Files\DA_LTCSHARP1_NHOM_12\DA_LTCSHARP1_NHOM_12\SOURCE\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Zalo Received Files\DA_LTCSHARP1_NHOM_12\DA_LTCSHARP1_NHOM_12\SOURCE\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Zalo Received Files\DA_LTCSHARP1_NHOM_12\DA_LTCSHARP1_NHOM_12\SOURCE\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.exe
+C:\Users\PC\Documents\Zalo Received Files\DA_LTCSHARP1_NHOM_12\DA_LTCSHARP1_NHOM_12\SOURCE\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.pdb
